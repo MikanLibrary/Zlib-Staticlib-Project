@@ -9,4 +9,4 @@ Zlib static project
 * 改名
     * zlib-x.x.xをzlibという名前にする。
     * プロジェクト直下にzlibフォルダが出来、その中にzlib.hなどのファイルがある状態にする。
-        * zlib*/zlib*/zlib.hなどとならないようにする。
+        * zlibxx/zlibxx/zlib.hなどとならないようにする。
